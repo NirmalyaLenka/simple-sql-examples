@@ -2,6 +2,19 @@
 
 ---
 
+## Repository structure
+
+Key files and folders (not an exhaustive listing):
+
+- `DAA.docx`
+- `README.md`
+
+
+## How it works
+
+This repository is primarily a documentation or resource collection. Start with the topic-specific folders and documents listed below, and check the source project's licence and attribution before reusing material.
+
+
 ## Maintenance & Audit
 
 - **Audit date:** 10 November 2026
